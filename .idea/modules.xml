@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/LiskovSubstitutionPrinciple/LiskovSubstitutionPrinciple.iml" filepath="$PROJECT_DIR$/LiskovSubstitutionPrinciple/LiskovSubstitutionPrinciple.iml" />
       <module fileurl="file://$PROJECT_DIR$/OCP_Java/OCP_Java.iml" filepath="$PROJECT_DIR$/OCP_Java/OCP_Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/designPatternJava.iml" filepath="$PROJECT_DIR$/.idea/designPatternJava.iml" />
     </modules>
